@@ -4,7 +4,7 @@ Tasty is a Flutter + Firebase application where users can explore delicious reci
 
 ## **✨ Features**
 
-🥘 Recipe Exploration
+### 🥘 Recipe Exploration
 
 Search for recipes by name, ingredients, or category
 
