@@ -11,9 +11,9 @@ class CloudinaryService {
 
   static void init() {
     cloudinary = Cloudinary.signedConfig(
-      apiKey: '469575334913512',
-      apiSecret: 'VQvjh-Ewml10qslAeE7vQ9Xc0xE',
-      cloudName: 'dnyqtum7i',
+      apiKey: '',
+      apiSecret: '',
+      cloudName: '',
     );
   }
 
