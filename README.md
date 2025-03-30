@@ -1,4 +1,4 @@
-#🍽️ **Tasty - Your Ultimate Recipe & Community App**
+🍽️ **#Tasty - Your Ultimate Recipe & Community App**
 
 Tasty is a Flutter + Firebase application where users can explore delicious recipes, search for specific dishes, and browse recipes from different categories and countries. The app also includes a personalized cart, an order placement system, and a community feature where users can engage with cooking and non-cooking events.
 
