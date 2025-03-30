@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968305528803",
+    "project_id": "tasty-app-bd902",
+    "storage_bucket": "tasty-app-bd902.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968305528803:android:43679ffc4d8164b0055ad6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mpllab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB69PJkjKWfiGJkLl8o9J7y9dnLVW5SNKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
